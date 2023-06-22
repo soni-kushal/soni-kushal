@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soni-kushal
-- 👀 I’m interested in the geopolitics around artificial intelligence
+- 👀 I’m interested in the geopolitics of artificial intelligence
 - 🌱 I’m currently learning about the international regimes governing digital technologies 
 - 💞️ I’m looking to collaborate on topics related to the political impact of AI
 - 📫 Reach me on twitter @KushalS_
